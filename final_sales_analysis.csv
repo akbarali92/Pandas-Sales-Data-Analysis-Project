@@ -1,11 +1,2 @@
-Order_ID,Customer_Name,Region,Product,Quantity,Price,Order_Date,Total_Sales,Month
-101,Ali,North,Laptop,1,80000,2024-01-05,80000,1
-102,Sara,South,Mobile,2,40000,2024-01-06,80000,1
-103,Ahmed,East,Tablet,1,30000,2024-01-07,30000,1
-104,Ayesha,West,Laptop,3,80000,2024-01-08,240000,1
-105,Usman,North,Mobile,2,40000,2024-01-09,80000,1
-106,Hina,East,Tablet,1,30000,2024-01-10,30000,1
-107,Bilal,South,Laptop,1,80000,2024-01-11,80000,1
-108,Noor,West,Mobile,4,40000,2024-01-12,160000,1
-109,Hamza,North,Tablet,2,30000,2024-01-13,60000,1
-110,Zara,East,Laptop,1,80000,2024-01-14,80000,1
+
+
