@@ -24,3 +24,17 @@ Quantity – Number of units sold
 Price – Price per unit
 
 Order_Date – Date when the order was placed
+
+Author
+Akbar Ali 
+Data Analyst
+
+
+#DataAnalytics
+#SQL
+#PowerBI
+#Python
+#Dashboard
+#BusinessIntelligence
+#DataVisualization
+#MachineLearning
